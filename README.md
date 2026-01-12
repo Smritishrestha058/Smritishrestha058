@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smriti Shrestha</h1>
-<h3 align="center">QA Engineer in the making /nPassionate about software testing, automation, and improving software quality</h3>
+<h3 align="center">QA Engineer in the making <br> Passionate about software testing, automation, and improving software quality</h3>
 
 - 🌱 I’m currently learning **Cypress, Selenium, Playwright**
 
