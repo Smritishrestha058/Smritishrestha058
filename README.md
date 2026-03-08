@@ -2,12 +2,13 @@
 <h3 align="center">QA Engineer in the making <br> Passionate about software testing, automation, and improving software quality</h3>
 
 - 🌱 I’m currently learning **Cypress, Selenium, Playwright**
+- I enjoy documenting testing processes through test cases and bug reports
 
 - 📫 How to reach me **Smritishrestha058@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/smriti shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smriti shrestha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/smriti-shrestha-273369280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smriti shrestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
